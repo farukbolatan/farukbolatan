@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @farukbolatan
+- 👀 I’m interested in Api development, JavaScript
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on any idea
+- 📫 omerbolatan@gmail.com
